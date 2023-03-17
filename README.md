@@ -3,9 +3,10 @@ This project was run on RStudios
 
 This project was sourced from Kaggle.
 
-For additional resources and the dataset you can follow the link below:
-
+For additional resources and the dataset you can follow the link below : 
 https://www.kaggle.com/code/johnnytay/fraud-detection-with-vesta-dataset
+
+
 
 ## Problem statement
 
